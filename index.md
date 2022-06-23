@@ -9,4 +9,4 @@
 - 付録：用語逆引き
 
 ---
-#### [NEXT> 初めに](./pages/page1.md)
+#### <div style="text-align: right">[NEXT> 初めに](./pages/page1.md)</div>
