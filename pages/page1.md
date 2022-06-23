@@ -12,4 +12,4 @@
 ```
 
 ---
-#### [NEXT> バージョン管理システム](./page2.md)
+#### <div style="text-align:left; float:right;">[バージョン管理システム NEXT>](./page2.md)</div>[<PREV インデックス](./../index.md)
