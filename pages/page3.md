@@ -23,4 +23,4 @@
 ### この先は Subversion について取り上げていきます。
 
 ---
-#### <div style="text-align:left; float:right;">[押さえておく用語 その1 NEXT>](./page4.md)</div>[<PREV バージョン管理とは](./page2.md)
+#### <div style="text-align:left; float:right;">[押さえておきたい用語 その1 NEXT>](./page4.md)</div>[<PREV バージョン管理とは](./page2.md)

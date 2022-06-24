@@ -21,4 +21,4 @@
 - リリース地点や復元地点として使われる
 
 ---
-#### <div style="text-align:left; float:right;">[押さえておく用語 その2 NEXT>](./page5.md)</div>[<PREV バージョン管理システムの種類](./page3.md)
+#### <div style="text-align:left; float:right;">[押さえておきたい用語 その2 NEXT>](./page5.md)</div>[<PREV バージョン管理システムの種類](./page3.md)
