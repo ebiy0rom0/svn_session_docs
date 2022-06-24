@@ -1,6 +1,6 @@
 # 2. バージョン管理システム
 
-## 押さえておく用語 その2
+## 押さえておきたい用語 その2
 
 **リビジョン**
 - バージョンのこと
@@ -22,4 +22,4 @@
     - テキストデータかつ変更箇所が重複していなければ、自動でマージしてくれることもある
 
 ---
-#### <div style="text-align:left; float:right;">[各用語 図解 NEXT>](./page6.md)</div>[<PREV 押さえておく用語 その1](./page4.md)
+#### <div style="text-align:left; float:right;">[押さえておきたい用語 その3 NEXT>](./page6.md)</div>[<PREV 押さえておきたい用語 その1](./page4.md)
